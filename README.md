@@ -1,16 +1,11 @@
-# final_project
+# Crop Rotation Decision Support System (Final Year Project)
+A machine learning-based decision support system designed to recommend optimal crop rotations based on soil parameters, using a Random Forest model. Developed as a final-year project to support sustainable agricultural practices through data-driven insights.
 
-A new Flutter application.
+## Project Overview
+Crop rotation plays a crucial role in maintaining soil health and boosting crop yield. This system leverages soil data to generate rotation recommendations, helping farmers choose crop sequences that optimize soil quality and reduce resource depletion.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+1) Data-Driven Crop Rotation Recommendations: Suggests ideal crop rotations tailored to specific soil conditions.
+2) Random Forest Model: A machine learning model that analyzes soil parameters and historical crop data to generate predictions.
+3) User-Friendly Interface: Input soil parameters easily to receive crop rotation recommendations.
+4) Sustainable Agriculture Support: Designed to promote soil health and minimize environmental impacts.
