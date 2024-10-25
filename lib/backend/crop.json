@@ -1,0 +1,352 @@
+{
+  "rice" : {
+    "botanicalName" : "Oryza sativa",
+    "family" : "grasses",
+    "cultivationTime" : 120,
+    "companion" : [
+      "maize", "mungbean"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "maize" : {
+    "botanicalName" : "Zea mays",
+    "family" : "grasses",
+    "cultivationTime" : 103,
+    "companion" : [
+      "groundnut", "soybean", "cassava", "bean", "mucuna"
+    ],
+    "type" : "cash crop",
+    "root": "fibrous"
+  },
+  "chickpea" : {
+    "botanicalName" : "Cicer arietinum",
+    "family" : "legume",
+    "cultivationTime" : 105,
+    "companion" : [
+      "maize", "millet", "tomato", "pepper"
+    ],
+    "type" : "cash",
+    "root" : "taproot"
+  },
+  "kidneybeans" : {
+    "botanicalName" : "Phaseolus vulgaris L.",
+    "family" : "legume",
+    "cultivation" : 75,
+    "companion" : [
+      "maize", "sorghum", "cowpea", "cucumber", "tomato", "pepper"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "pigeonpeas" : {
+    "botanicalName" : "Cajanus cajan",
+    "family" : "legume",
+    "cultivation" : 165,
+    "companion" : [
+      "maize", "sorghum", "cowpea", "yam", "groundnut"
+    ],
+    "type": "cover crop",
+    "root": "taproot"
+  },
+  "mungbean" : {
+    "botanicalName" : "Vigna radiata",
+    "family" : "legume",
+    "cultivation" : 110,
+    "companion" : [
+      "maize", "sorghum", "cowpea"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "lentil" : {
+    "botanicalName" : "Lens culinaris",
+    "family" : "legume",
+    "cultivation" : 110,
+    "companion" : [
+      "chickpea", "mungbean"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "pomegranate" : {
+    "botanicalName" : "Punica granatum",
+    "family" : "punicaceae",
+    "cultivation" : 913,
+    "companion" : [
+      "cowpea", "soybean", "groundnut", "maize", "sorghum"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "banana" : {
+    "botanicalName" : "Musa acuminata",
+    "family" : "musaceae",
+    "cultivation" : 590,
+    "companion" : [
+      "bean", "sweetpotato", "cassava", "cowpea", "pigeonpeas"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "mango" : {
+    "botanicalName" : "Mangifera indica",
+    "family" : "anacardiaceae",
+    "cultivation" : 1460,
+    "companion" : [
+      "bean", "banana", "cassava", "cowpea", "pigeonpeas"
+    ],
+    "type": "cash crop",
+    "root": "taproot"
+  },
+  "grapes" : {
+    "botanicalName" : "Vitis vinifera",
+    "family" : "vitaceae",
+    "cultivation" : 175,
+    "companion" : [
+      "bean", "cucumber", "cowpea"
+    ],
+    "type": "cash crop",
+    "root": "taproot"
+  },
+  "watermelon" : {
+    "botanicalName" : "Citrullus lanatus",
+    "family" : "cucurbitaceae",
+    "cultivation" : 90,
+    "companion" : [
+      "bean", "cowpea", "maize"
+    ],
+    "type": "cash crop",
+    "root": "taproot"
+  },
+  "muskmelon" : {
+    "botanicalName" : "Cucumis melo",
+    "family" : "cucurbitaceae",
+    "cultivation" : 85,
+    "companion" : [
+      "bean", "cucumber", "maize"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "apple" : {
+    "botanicalName" : "Malus pumila",
+    "family" : "rosaceae",
+    "cultivation" : 1460,
+    "companion" : [
+      "bean"
+    ],
+    "type": "cash crop",
+    "root": "taproot"
+  },
+  "orange" : {
+    "botanicalName" : "Citrus sinesis",
+    "family" : "rutaceae",
+    "cultivation" : 1095,
+    "companion" : [
+      "bean", "cowpea", "sorghum", "coffee"
+    ],
+    "type": "cash crop",
+    "root": "taproot"
+  },
+  "papaya" : {
+    "botanicalName" : "Carica papaya",
+    "family" : "caricaceae",
+    "cultivation" : 298,
+    "companion" : [
+      "bean", "cowpea", "groundnut", "cucumber", "tomato"
+    ],
+    "type": "cash crop",
+    "root": "taproot"
+  },
+  "coconut" : {
+    "botanicalName" : "Cocos nucifera",
+    "family" : "arecaceae",
+    "cultivation" : 2007,
+    "companion" : [
+      "banana", "cowpea", "groundnut", "bean", "pigeonpeas"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "cotton" : {
+    "botanicalName" : "Gossypium herbaceum",
+    "family" : "malvaceae",
+    "cultivation" : 170,
+    "companion" : [
+      "chickpea", "cowpea", "groundnut", "bean", "pigeonpeas", "sorghum"
+    ],
+    "type": "cash crop",
+    "root": "taproot"
+  },
+  "jute" : {
+    "botanicalName" : "Corchorus",
+    "family" : "malvaceae",
+    "cultivation" : 110,
+    "companion" : [
+      "chickpea", "cowpea", "groundnut", "bean", "pigeonpeas", "lentil", "maize"
+    ],
+    "type": "cover crop",
+    "root": "taproot"
+  },
+  "coffee" : {
+    "botanicalName" : "Coffea arabica",
+    "family" : "rubiaceae",
+    "cultivation" : 1278,
+    "companion" : [
+      "chickpea", "cowpea", "groundnut", "bean", "pigeonpeas", "lentil", "banana", "cassava", "orange"
+    ],
+    "type": "cash crop",
+    "root": "taproot"
+  },
+  "millet" : {
+    "botanicalName" : "Pennisetum glaucum",
+    "family" : "grasses",
+    "cultivation" : 75,
+    "companion" : [
+      "cowpea", "bean", "pigeonpeas", "lentil"
+    ],
+    "type": "cover crop",
+    "root": "fibrous"
+  },
+  "yam" : {
+    "botanicalName" : "Dioscorea alata",
+    "family" : "discoreaceae",
+    "cultivation" : 295,
+    "companion" : [
+      "cowpea", "bean", "pigeonpeas", "lentil", "soybean", "maize", "cassava", "mucuna"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "groundnut" : {
+    "botanicalName" : "Arachis hypogaea",
+    "family" : "legume",
+    "cultivation" : 295,
+    "companion" : [
+      "cowpea", "bean", "pigeonpeas", "lentil", "soybean", "maize", "cassava"
+    ],
+    "type": "cash crop",
+    "root": "taproot"
+  },
+  "sweetpotato" : {
+    "botanicalName" : "Ipomoea batatas",
+    "family" : "convolvulaceae",
+    "cultivation" : 105,
+    "companion" : [
+      "cowpea", "bean", "pigeonpeas", "lentil", "soybean", "maize", "sorghum", "cassava"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "sorghum" : {
+    "botanicalName" : "Sorghum bicolor",
+    "family" : "grasses",
+    "cultivation" : 105,
+    "companion" : [
+      "cowpea", "bean", "pigeonpeas", "lentil", "soybean", "maize", "millet", "mucuna"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "cassava" : {
+    "botanicalName" : "Manihot esculenta",
+    "family" : "euphorbiaceae",
+    "cultivation" : 280,
+    "companion" : [
+      "cowpea", "bean", "pigeonpeas", "lentil", "soybean", "maize", "pepper", "sweet potata", "mucuna"
+    ],
+    "type": "cash crop",
+    "root": "taproot"
+  },
+  "soybean" : {
+    "botanicalName" : "Glycine max",
+    "family" : "legume",
+    "cultivation" : 110,
+    "companion" : [
+      "cowpea", "bean", "pigeonpeas", "lentil", "maize"
+    ],
+    "type": "cover crop",
+    "root": "fibrous"
+  },
+  "bean" : {
+    "botanicalName" : "Phaseolus vulgaris",
+    "family" : "legume",
+    "cultivation" : 75,
+    "companion" : [
+      "pepper", "cucumber", "maize"
+    ],
+    "type": "cover crop",
+    "root": "fibrous"
+  },
+  "cucumber" : {
+    "botanicalName" : "Cucumis sativus",
+    "family" : "cucurbitaceae",
+    "cultivation" : 65,
+    "companion" : [
+      "bean", "maize"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "pepper" : {
+    "botanicalName" : "Capsicum",
+    "family" : "solanaceae",
+    "cultivation" : 125,
+    "companion" : [
+      "bean", "pigeonpeas", "cowpea", "tomato", "chickpea"
+    ],
+    "type": "cash crop",
+    "root": "fibrous"
+  },
+  "tomato" : {
+    "botanicalName" : "Solanum lycoperisicum",
+    "family" : "solanaceae",
+    "cultivation" : 80,
+    "companion" : [
+      "bean", "pepper", "cucumber"
+    ],
+    "type": "cash crop",
+    "root": "taproot"
+  },
+  "mucuna" : {
+    "botanicalName" : "Mucuna pruriens",
+    "family" : "legume",
+    "cultivation" : 150,
+    "companion" : [
+      "maize", "sorghum", "cowpea", "yam", "cassava"
+    ],
+    "type": "cover crop",
+    "root": "taproot"
+  },
+  "cowpea" : {
+    "botanicalName" : "Vigna unguiculata",
+    "family" : "legume",
+    "cultivation" : 75,
+    "companion" : [
+      "maize", "sorghum", "groundnut", "cassava"
+    ],
+    "type": "cover crop",
+    "root": "taproot"
+  },
+  "mothbeans" : {
+    "botanicalName" : "Vigna aconitifolia",
+    "family" : "legume",
+    "cultivation" : 70,
+    "companion" : [
+      "maize", "sorghum", "cowpea", "millet", "groundnut"
+    ],
+    "type": "cover crop",
+    "root": "taproot"
+  },
+  "blackgram" : {
+    "botanicalName" : "Vigna mungo",
+    "family" : "legume",
+    "cultivation" : 105,
+    "companion" : [
+      "cucumber", "cowpea", "groundnut", "bean"
+    ],
+    "type": "cover crop",
+    "root": "fibrous"
+  }
+}
